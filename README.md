@@ -1,5 +1,5 @@
 I Wanna Climb the Snowy Tower
-Made By Purrfexionator and UberBob
+Made By Purrfexionator
 
 ----------------------------------------
 INFO:
