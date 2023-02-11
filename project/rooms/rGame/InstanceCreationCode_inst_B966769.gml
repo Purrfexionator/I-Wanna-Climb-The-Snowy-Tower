@@ -1,0 +1,1 @@
+trigger_id = "s1_platform";

@@ -1,0 +1,1 @@
+trigger_id = "s2_plat1";
